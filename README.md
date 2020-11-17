@@ -1,2 +1,8 @@
 # C-Queue-CarService
-Car Wash Service in C using Queue
+## IMPORTANT
+**Make sure the Queue is FULL before doing any other operation.**
+
+Group project
+
+Software used: Code::Blocks 20.03 IDE
+
